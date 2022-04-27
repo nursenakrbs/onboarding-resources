@@ -1,0 +1,51 @@
+-The ways to contribute
+
+
+--Contribution to Code
+---Prerequisites
+---Setting up the environment (Get Started)
+---Resources on used technologies and coding languages
+---Design Principles
+---Branch conventions
+
+--Contribution to Documentation
+
+--Contribution to Tests
+
+--Contribution to Translations
+
+--Information on Review Process
+
+-Style Guides
+--Git Commit message style
+--Coding Language Style
+--Documentation Style
+--Specs StyleGuide
+
+--Information on Creating Issues
+---Bug Report Information
+---Feature/Enhancement Request Information
+---Type of Issue and Issue State
+---Pull Request Template/Guide
+---Good first issues
+
+-Contributor Workflow
+
+
+-Information on GitHub usage
+--How to send pull requests
+--How to fork a repo
+--How to commit
+
+
+-Code of Conduct
+-Contibuting FAQ
+-Github Discussion
+-Adding to mailing list
+-Official Message Board
+-Community Channels
+--Discord
+--Slack
+--Google Groups
+--Project Specific Platform
+--Teams

@@ -1,3 +1,0 @@
-Accurate, detailed hardware specifications seem hard to come by...along with all original videotapes and pointless stuff like that.  If anyone has schematics, diagrams, plans, blueprints, or even any working equipment, please post the details.  One proposal is to build a working guidance computer, and/or to test the software in a working (virtual?) environment.
-
-Found this -- virtual AGC -- Virtual Apollo Guidance Computer (AGC) software http://www.ibiblio.org/apollo

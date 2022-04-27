@@ -1,2 +1,0 @@
-* [Contribution Checklist](https://github.com/angular/angular.js/wiki/Contribution%3A-Contribution-Checklist)
-* [Writing AngularJS Documentation](https://github.com/angular/angular.js/wiki/Contribution%3A-Writing-AngularJS-Documentation)

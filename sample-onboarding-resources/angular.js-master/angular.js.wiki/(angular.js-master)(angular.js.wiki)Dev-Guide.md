@@ -1,6 +1,0 @@
-* [Anti Patterns](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-Anti-Patterns)
-    * [Best Practices](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-Best-Practices)
-    * [Understanding Dependency Injection](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-Understanding-Dependency-Injection)
-    * [Understanding Directives](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-Understanding-Directives)
-    * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-Understanding-Scopes)
-    * [When to use $scope.$apply()](https://github.com/angular/angular.js/wiki/Dev-Guide%3A-When-to-use-$scope.$apply())
