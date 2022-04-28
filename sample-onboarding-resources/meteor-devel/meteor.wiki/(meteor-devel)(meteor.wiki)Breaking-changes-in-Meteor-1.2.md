@@ -1,1 +1,0 @@
-This content has moved to: https://github.com/meteor/docs/blob/version-NEXT/long-form/breaking-changes-1.2.md

@@ -1,1 +1,0 @@
-Read about [this React restriction](http://react-in-meteor.readthedocs.org/en/latest/react-template-helper/#react-components-must-be-the-only-thing-in-the-wrapper-element) and how to work around it in our Meteor in React guide.

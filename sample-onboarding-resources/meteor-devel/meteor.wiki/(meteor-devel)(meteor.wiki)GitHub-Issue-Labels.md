@@ -1,1 +1,0 @@
-See: https://github.com/meteor/meteor/blob/devel/IssueTriage.md

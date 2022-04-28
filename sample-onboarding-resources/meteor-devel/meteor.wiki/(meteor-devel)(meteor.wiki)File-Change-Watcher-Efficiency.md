@@ -1,1 +1,0 @@
-This content now lives here: https://github.com/meteor/docs/blob/version-NEXT/long-form/file-change-watcher-efficiency.md

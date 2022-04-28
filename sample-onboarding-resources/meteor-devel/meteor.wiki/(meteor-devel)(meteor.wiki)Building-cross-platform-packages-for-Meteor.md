@@ -1,1 +1,0 @@
-This content has moved to: https://github.com/meteor/docs/blob/version-NEXT/long-form/building-cross-platform-packages.md
