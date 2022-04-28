@@ -1,6 +1,5 @@
 -The ways to contribute
 
-
 --Contribution to Code
 ---Prerequisites
 ---Setting up the environment (Get Started)
