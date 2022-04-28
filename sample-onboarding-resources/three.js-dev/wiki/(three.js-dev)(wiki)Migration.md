@@ -1,1 +1,0 @@
-This page has been renamed to [[Migration Guide]].

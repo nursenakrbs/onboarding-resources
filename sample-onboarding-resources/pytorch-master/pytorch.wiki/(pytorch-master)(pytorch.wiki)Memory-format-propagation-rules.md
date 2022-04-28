@@ -1,1 +1,0 @@
-Placeholder for memory format propagation rules wiki

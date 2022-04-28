@@ -1,1 +1,0 @@
-Check out the [Svelte FAQs](https://svelte.dev/faq)

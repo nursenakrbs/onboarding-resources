@@ -1,1 +1,0 @@
-> ### This page has moved to http://www.typescriptlang.org/docs/handbook/compiler-options-in-msbuild.html

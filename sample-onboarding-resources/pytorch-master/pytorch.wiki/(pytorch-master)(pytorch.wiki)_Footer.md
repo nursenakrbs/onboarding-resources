@@ -1,1 +1,0 @@
-PyTorch presented to you with love by the PyTorch Team of contributors

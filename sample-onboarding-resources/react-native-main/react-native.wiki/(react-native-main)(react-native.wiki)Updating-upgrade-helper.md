@@ -1,1 +1,0 @@
-Find the latest version of this document over in the [reactnative.dev website](https://reactnative.dev/contributing/updating-upgrade-helper).

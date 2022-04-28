@@ -1,1 +1,0 @@
-> ### This page has moved to http://www.typescriptlang.org/docs/handbook/typings-for-npm-packages.html
